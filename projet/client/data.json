@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Dashboard des ventes",
+      "category": "statistique",
+      "image": "assets/images/projects/dashboard.jpg",
+      "description": "Un dashboard interactif pour analyser les ventes 2024.",
+      "tools": ["Tableau", "Python"]
+    },
+    {
+      "id": 2,
+      "title": "Logo pour startup",
+      "category": "graphisme",
+      "image": "assets/images/projects/logo.jpg",
+      "description": "Création d'un logo moderne pour une startup tech.",
+      "tools": ["Illustrator", "Figma"]
+    },
+    {
+      "id": 3,
+      "title": "Infographie COVID-19",
+      "category": "hybride",
+      "image": "assets/images/projects/infographie.jpg",
+      "description": "Visualisation des données épidémiologiques.",
+      "tools": ["R", "Adobe XD"]
+    }
+  ]
